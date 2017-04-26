@@ -1,6 +1,6 @@
 {
-  "name": "normalizer",
-  "version": "1.2.7",
+  "name": "memmalizer",
+  "version": "0.0.1",
   "description": "Better string filter and sort for MongoDB and Mongoose Models, accounting for special (accentuated and such) utf8 characters",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:andrepadez/normalizer.git"
+    "url": "git@github.com:dtomaszewski/memmalizer.git"
   },
   "keywords": [
     "utf8",
@@ -18,9 +18,8 @@
     "mongoose"
   ],
   "author": {
-    "name": "André Alçada Padez",
-    "email": "andre.padez@gmail.com",
-    "url": "http://andrepadez.com"
+    "name": "Dariusz Tomaszewski",
+    "email": "dtomaszewski.js@gmail.com"
   },
   "license": "MIT"
 }
